@@ -6,13 +6,31 @@ Codacity is an innovative automated code review system that integrates artificia
 
 # **Team Members and Task Distribution**
 
-| Team Member               | Role          | Contributions                                                                                              |
-| ------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------- |
-| Rikin Dipakkumar Chauhan  | Product Head  | Defined project objectives, conducted initial planning, and coordinated milestone reviews and adjustments. |
-| Darsh Patel               | UI Lead       | Designed the user interface, created prototypes, and ensured alignment with user requirements.             |
-| Prachi Kalpeshbhai Patel  | Backend Lead  | Developed backend systems and APIs, conducted integration testing for seamless operation.                  |
-| Bharti Chhabra            | Database Lead | Designed and configured the database schema, performed initial testing to ensure data accessibility.       |
-| Krishna Alpeshkumar Patel | QA Team Lead  | Conducted thorough testing phases to validate system reliability and functionality.                       |
+Darsh Patel
+- Lead the project by organizing team meetings, ensuring deadlines are met, and maintaining the overall direction of deliverables.
+- Research and articulate the problem or opportunity within the chosen domain.
+- Conduct market analysis, including identifying target audiences and competitors.
+  
+Rikin Dipakkumar Chauhan
+- Evaluate the technical, operational, and economic feasibility of the proposed solution.
+- Justify the selection of technology stacks and resource requirements.
+- Include detailed risk-vs-reward assessments for technical choices.
+
+Prachi Kalpeshbhai Patel
+- Develop a comprehensive description of the software solution’s features and functionalities.
+- Illustrate use cases to showcase user interactions with the system.
+- Articulate the expected benefits and impacts on users and the broader domain.
+  
+Krishna Alpeshkumar Patel
+- Create a detailed Work Breakdown Structure (WBS), breaking the project into phases, tasks, and milestones.
+- Develop a timeline and allocate resources (human and technological) for each phase.
+- Identify critical dependencies and ensure resource alignment with project goals.
+  
+Bharti Chhabra
+- Identify risks across technical, operational, financial, and market domains.
+- Estimate costs for development, testing, marketing, and ongoing maintenance.
+- Allocate funds to each category and justify the rationale for allocations.
+
 
 # **Gantt Chart Illustrating the Key Phases and Milestones:**
 
