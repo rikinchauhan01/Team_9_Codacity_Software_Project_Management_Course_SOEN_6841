@@ -18,7 +18,7 @@ Codacity is an innovative automated code review system that integrates artificia
 
 # **Gantt Chart Illustrating the Key Phases and Milestones:**
 
-    ![1733596994434](image/README/1733596994434.jpg "Gantt Chart Illustrating the Key Phases and Milestones")
+![Gantt Chart Illustrating the Key Phases and Milestone](https://github.com/user-attachments/assets/2609a685-1cd8-4643-b05f-fb6a226947ce)
 
 # **Project Phases and Deliverable:**
 
